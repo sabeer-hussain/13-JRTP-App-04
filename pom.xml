@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.sabeerit</groupId>
-	<artifactId>05-springboot-web-app-13-JRTP</artifactId>
+	<artifactId>05-springboot-web-application-13-JRTP</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>05-springboot-web-app-13-JRTP</name>
+	<name>05-springboot-web-application-13-JRTP</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>1.8</java.version>
