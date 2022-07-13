@@ -11,7 +11,7 @@
 	<groupId>com.sabeerit</groupId>
 	<artifactId>13-JRTP-App-04</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>13-JRTP-App-04</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
